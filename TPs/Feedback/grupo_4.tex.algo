@@ -1,0 +1,39 @@
+\section{Grupo nº 4}
+
+\subsection{Integrantes}
+
+Los integrantes del grupo son:
+
+\begin{itemize}
+	\item
+		Alberto Paparelli
+	\item
+		Marcelo Maldonado
+\end{itemize}
+
+\subsection{Propósito del Proyecto}
+
+Se utiliza Inteligencia artificial para el reconocimiento de imágenes.
+
+\subsection{Lo positivo}
+
+La presentación aborda de forma correcta algunos algoritmos de Machine Lerning de forma extensa, pero entendible.
+
+\subsection{Lo negativo}
+
+La presentación redunda en temas ya conocidos para los alumnos (como es el Machine Lerning), por lo que se vuelve monótono y un
+poco extenso.
+
+A nuestro parecer quizás hubiera estado mejor no ahondar en cuestiones técnicas y centrarse un poco más en la finalidad del
+proyecto y en cómo llevarlo a cabo.
+
+Se presentan muchos objetivos a realizar, pero no se ejemplifica de forma clara la temática principal.
+
+\subsection{Sugerencias futuras}
+
+Nosotros hubiéramos hecho más hincapié en cómo llevar adelante la temática elegida con las herramientas y poder de esta forma dar
+un ejemplo de lo que se quiere resolver.
+
+También habríamos indicado cómo estará compuesto el data set de datos a utilizar, qué características y hacia qué imágenes estará
+orientado.
+

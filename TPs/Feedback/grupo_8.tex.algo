@@ -1,0 +1,37 @@
+\section{Grupo nº 8}
+
+\subsection{Integrantes}
+
+Los integrantes del grupo son:
+
+\begin{itemize}
+	\item
+		Federico Lozada
+	\item
+		Damián Zacarias
+	\item
+		Ivan Luthje
+\end{itemize}
+
+\subsection{Propósito del Proyecto}
+
+Se utilizará Machine Lerning para identificar enfermedades en hojas mediante el procesamiento de imágenes.
+
+\subsection{Lo positivo}
+
+Para nosotros, la presentación fue buena, y es directamente práctico para testear para aquellas personas que tengan algún cultivo
+hogareño.
+
+\subsection{Lo negativo}
+
+Nosotros hubiéramos descartado los Datos de Interés en la presentación, ya que es demasiado técnico como para una presentación que
+trata sobre posibles acercamientos a una problemática y no es tan técnica.
+
+También hubiera estado bueno que presenten los datos estadísticos al comienzo como motivación del proyecto, así como hizo el grupo
+nº 6.
+
+\subsection{Sugerencias futuras}
+
+Vemos que tiene mucha utilidad este proyecto, ya que muchos de los habitantes de estas zonas, poseen huertas o plantaciones
+varias. Quizás podría hacerse alguna especie de prueba en tiempo real con algún dispositivo móvil que ejecute el programa
+utilizando la cámara para recolectar datos y luego procesar para saber si es que la planta está enferma o no.

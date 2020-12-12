@@ -1,0 +1,37 @@
+\section{Grupo nº 3}
+
+\subsection{Integrantes}
+
+Los integrantes del grupo son:
+
+\begin{itemize}
+	\item
+		Cristian Pinto
+	\item
+		Tupac Brun
+	\item
+		Tamara Arguello
+\end{itemize}
+
+\subsection{Propósito del Proyecto}
+
+Se montará un cluster en Amazon utilizando instancias de ES2 (virtualización de máquinas) y se anidarán todas
+ellas en una red única para probar el desempeño de la jerarquía de los buckets montados.
+
+\subsection{Lo positivo}
+
+A nuestro modo de ver, la presentación trató de contener y explicar (quizás en demasía) todos los aspectos que circundan al
+proyecto.
+
+\subsection{Lo negativo}
+
+La presentación se extendió de forma innecesaria, viendo un video y una larga explicación de Clustering, que no hace al proyecto
+en sí de la materia. No se entendió el propósito del proyecto en un principio, hecho que luego se visualizó en las preguntas de
+los compañeros al finalizar la exposición.
+
+\subsection{Sugerencias futuras}
+
+Creemos que el haber sido más específicos en la temática a abordar a la hora de exponer el proyecto, no hubiese creado tantas
+dudas sobre a lo que estaba dirigido el proyecto. Hubiéramos abordado previo a optar por una u otra tecnología, el tema de los
+costos que se deben afrontar, cuestión que puede llevar a la inviabilidad del proyecto.
+

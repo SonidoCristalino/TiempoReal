@@ -1,0 +1,33 @@
+\section{Grupo nº 5}
+
+\subsection{Integrantes}
+
+Los integrantes del grupo son:
+
+\begin{itemize}
+	\item
+		Jonatan Cantero
+	\item
+		Agustín Gimenez
+\end{itemize}
+
+\subsection{Propósito del Proyecto}
+
+Utilizando Machine Lernings (ML) junto con Deep Lerning (DL) se pretende identificar personas mediante fotos, y de esta manera
+también, visualizar si existe la distancia y el barbijo que exije la situación de pandemia.
+
+\subsection{Lo positivo}
+
+Nos pareció que la presentación fue concisa, bien esquematizada y presentada.
+
+\subsection{Lo negativo}
+
+Creemos que quizás algunas de las herramientas presentadas en el proyecto son innecesarias y quizás hubiera sido más interesante
+que se puedan quitar aquellas que no son imprescindibles en un primer momento, como por ejemplo Anaconda, donde según la
+presentación sólo se utilizaría para poder utilizar librerías que ya tiene implementadas Python.
+
+\subsection{Sugerencias futuras}
+
+Quizás para ampliar un poco más el panorama, nosotros hubiéramos hecho más hincapié en la presentación en cómo se hará el input de
+las imágenes y un simple ejemplo de cuál sería el resultado final.
+
